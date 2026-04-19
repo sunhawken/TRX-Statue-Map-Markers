@@ -11,30 +11,30 @@ A patch ESP for the **TRX Mods Merged** mod pack that adds map markers for all 2
 
 Adds **Landmark**-type map markers for every exterior TRX statue that exists in the Tamriel worldspace. Two statues that share a cell (ArcherMastery and ArcherMasteryF) each get their own marker, slightly offset.
 
-| Marker Name | Notes |
+| Marker Name | Location |
 |---|---|
 | TRX - Statue Alpha | South of Whiterun |
 | TRX - Statue ArcherMastery | Reach mountains |
-| TRX - Statue ArcherMasteryF | Reach mountains |
-| TRX - Statue CandiGirl | |
-| TRX - Statue Kitty | |
-| TRX - Statue MagicLessons | |
-| TRX - Statue Malakath | |
-| TRX - Statue Milk Girl | |
-| TRX - Statue MilkStation | |
-| TRX - Statue Peach Candygirl | |
-| TRX - Statue TriumphOfTheBeast | |
-| TRX - Statue TrixieBadGirl | |
-| TRX - Statue TrixieIdealBalance | |
-| TRX - Statue TrixieJoke | |
-| TRX - Statue TrixieTankard | |
-| TRX - Statue TrixieThrone | |
-| TRX - Statue TrixieWalker | |
-| TRX - Statue TrixieWitchFlight | |
-| TRX - Statue Trophy | |
-| TRX - Statue WildPassion | |
-| TRX - Statue WolfQueen | |
-| TRX Statue MagicMeditation | |
+| TRX - Statue ArcherMasteryF | Reach mountains (offset 200 units) |
+| TRX - Statue CandiGirl | Near Whiterun |
+| TRX - Statue Kitty | Falkreath hold |
+| TRX - Statue MagicLessons | Near Skytemple Ruins |
+| TRX - Statue Malakath | East of Whiterun |
+| TRX - Statue Milk Girl | Falkreath hold |
+| TRX - Statue MilkStation | East Reach |
+| TRX - Statue Peach Candygirl | North shore |
+| TRX - Statue TriumphOfTheBeast | Solitude area |
+| TRX - Statue TrixieBadGirl | Eastmarch |
+| TRX - Statue TrixieIdealBalance | Near Ivarstead |
+| TRX - Statue TrixieJoke | The Reach |
+| TRX - Statue TrixieTankard | Near Whiterun |
+| TRX - Statue TrixieThrone | Near Ivarstead |
+| TRX - Statue TrixieWalker | Dawnstar area |
+| TRX - Statue TrixieWitchFlight | East plains |
+| TRX - Statue Trophy | Pine forest |
+| TRX - Statue WildPassion | Ivarstead |
+| TRX - Statue WolfQueen | Near Dragon's Tail |
+| TRX Statue MagicMeditation | Throat of the World area |
 | TRX Statue Waitress | Solitude docks |
 
 Statues excluded (interior or non-Tamriel worldspace): CumGirl (interior cell), HorseRider (SolitudeWorld).
